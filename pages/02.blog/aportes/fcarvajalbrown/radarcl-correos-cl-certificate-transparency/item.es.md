@@ -1,4 +1,5 @@
 ---
+visible: true
 title: 'RadarCL: correos públicos .cl con Certificate Transparency'
 date: '19-10-2026 23:00'
 author: fcarvajalbrown

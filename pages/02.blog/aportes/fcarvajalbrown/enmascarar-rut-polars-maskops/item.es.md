@@ -1,4 +1,5 @@
 ---
+visible: true
 title: 'Enmascarar RUT y datos personales en Polars con MaskOps'
 date: '19-10-2026 22:30'
 author: fcarvajalbrown

@@ -1,4 +1,5 @@
 ---
+visible: true
 title: '¿Por qué usar etiquetas XML en prompts?'
 date: '16-10-2026 10:00'
 author: porquero

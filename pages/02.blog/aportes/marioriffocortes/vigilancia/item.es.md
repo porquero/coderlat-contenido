@@ -1,4 +1,5 @@
 ---
+visible: true
 title: 'Visor web para cámaras DVR XMeye con go2rtc y PHP'
 date: '05-11-2026 17:45'
 author: MarioRiffoCortes
